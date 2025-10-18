@@ -1,0 +1,16 @@
+Project Success
+As the final deliverable, your team will prepare and submit a Code Notebook to document your development and execution of the project requirements summarized here:   
+
+Agent Functions (33.8%) 
+Workflow Patterns (33.8%)
+Code (32.4%) 
+
+Workflow Patterns (33.8%)
+Implement the following three workflow patterns: 
+
+Prompt Chaining: 
+Routing:mcp router
+Evaluator–Optimizer: finace,tech,risk,market agent→ evaluate quality by vc and verdict agent verdict agent → refine using feedbackby vc qna .
+
+
+consider 
