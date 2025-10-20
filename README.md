@@ -27,7 +27,7 @@ The Streamlit app allows users to **upload documents** and **ask questions** int
 |------------|----------------|
 | Embeddings | SentenceTransformers / OpenAI `text-embedding-3-large` |
 | Vector Store | FAISS |
-| LLM | GPT-4 / LLaMA 3 / Mixtral |
+| LLM | GPT-3.5 / Perpexity sonar pro |
 | Framework | LangChain |
 | Interface | Streamlit |
 | Notebook Environment | Jupyter Notebook |
@@ -39,5 +39,9 @@ The Streamlit app allows users to **upload documents** and **ask questions** int
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/llm-rag-qa-notebook.git
-cd llm-rag-qa-notebook
+git clone the following repo 
+Create virtual enveronment
+pip install -r requirements.txt
+streamlit run app.py
+
+
