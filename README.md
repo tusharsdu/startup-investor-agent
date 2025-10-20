@@ -1,8 +1,18 @@
-# 🧠 LLM-based Question Answering System (RAG) — Jupyter Notebook + Streamlit App
+#Multi-Agent AI Startup Investment Analysis Systemup pitch deck analysis
 
-This project demonstrates how to build a **Retrieval-Augmented Generation (RAG)**–based **Question Answering (QA)** system using a **Large Language Model (LLM)** inside a **Jupyter Notebook** and deploy it as a **Streamlit web app**.
+Uses tools dynamically (APIs: Perplexity sonar-pro, OpenAI GPT-3.5-turbo; datasets: FAISS vector storage; retrieval: Sentence Transformers)
+Self-reflects to assess the quality of its analysis output through iterative improvement cycles
+Learns across runs by keeping brief memories and notes in FAISS vector database to improve future analyses
+What is this project? This is a sophisticated Multi-Agent AI system designed to analyze startup pitch decks and provide comprehensive investment analysis using Model Context Protocol (MCP) architecture. The system employs specialized AI agents that work together to evaluate every aspect of a startup investment opportunity.
 
-The system retrieves relevant information from a set of documents (PDFs, text files, or notes) and uses an LLM to generate contextually accurate and up-to-date answers.
+Why are we building this? Traditional investment analysis is time-consuming, subjective, and often misses critical details. Our system:
+
+Standardizes investment evaluation across all startups
+Accelerates the due diligence process from weeks to minutes
+Reduces bias through systematic AI-driven analysis
+Improves accuracy by analyzing multiple dimensions simultaneously
+Scales investment evaluation for VC firms and angel investors
+Core Value Proposition: Transform unstructured pitch deck content into actionable investment intelligence through coordinated AI agents, each specialized in different aspects of startup evaluation.
 
 ---
 
